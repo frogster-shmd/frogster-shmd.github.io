@@ -1,0 +1,166 @@
+body {
+  font-family:  'Nunito', Helvetica, sans-serif;
+  background-color: #F2F2F2
+}
+
+h1 {
+  margin: 10px 10px;
+  font-family: Raleway;
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-family: Raleway;
+  font-size: 2.5rem;
+}
+
+h3 {
+  margin: 0;
+  font-family: Raleway;
+  font-size: 1.5rem;
+}
+
+h4 {
+  margin: 0;
+  font-family: Raleway;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  border: none;
+}
+
+img{
+  flex-shrink: 1;
+  max-height: 100%;
+  max-width: 100%;
+}
+.page_box {
+  display: flex;
+  margin: auto;
+}
+
+.page_header {
+/* still reseraching */
+}
+
+.page_main {
+  flex-grow: 1;
+}
+
+.page_main h2 {
+  margin-bottom: 1.5rem;
+}
+
+.post_date {
+  margin: 0;
+  padding: 0;
+  color: #008080;
+}
+
+#home_box {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 93%;
+  margin: auto;
+}
+
+#home_center {
+  display: flex;
+  margin-bottom: 4rem;
+  flex-grow: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#home_h1 {
+  margin: 0;
+  text-align: center;
+}
+
+#home_subtitle {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  line-height: normal;
+}
+
+#home_nav {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 2.5rem;
+  padding: 0;
+}
+
+#home_nav a {
+  color: #008080;
+  font-size: 1.7rem;
+  transition: color 0.3s;
+}
+
+#home_nav a:hover {
+  color: #D3D3D3;
+}
+
+#post_list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#post_list li {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-bottom: 1px dashed black; 
+}
+
+#post_list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: #008080;
+  font-size: 1.2rem;
+  transition: color 0.3s;
+}
+
+#post_list a:hover {
+  color: #D3D3D3;
+}
+
+@media (max-width: 600px) {
+  .page_box {
+    margin: 0;
+  }
+}
+
+@media (min-width: 600px) {
+  .page_box {
+    max-width: 100%;
+    margin-top: 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .page_box {
+    margin-top: 4rem;
+  }
+}
+
+@media (min-width: 960px) {
+  .page_box {
+    max-width: 760px;
+    margin-top: 5rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page_box {
+    max-width: 960px;
+    margin-top: 7rem;
+  }
+}
+
