@@ -11,7 +11,7 @@ I will start by saying that I had only previously played around with other print
 ![MK4s build image 1](/assets/img/mk4s_build_1.jpg)
 
 
-This was after the first day of assembly, and there was only one worry that I had from the start. When I was younger I was known to over tighten bolts at times stripping threads, and tightening metal components housed in plastic gave me flash backs to hearing the crack of bolt from my youth. So I was weary just how tight I could go with these components. I settled on tightening enough, and then checking the tightness of the components after use. In reality this should probably be performed as routine maitenance.
+This was after the first day of assembly, and there was only one worry that I had from the start. When I was younger I was known to over tighten bolts at times stripping threads. Tightening metal components housed in plastic gave me flash backs to hearing the crack of bolt from my youth. So I was weary just how tight I could go with these components. I settled on tightening enough, and then checking the tightness of the components after use. In reality this should probably be performed as routine maitenance.
 
 
 ![MK4s build image 2](/assets/img/mk4s_build_2.jpg)
@@ -29,9 +29,9 @@ The component in the above picture really amazed me. It was a piece of the X-Car
 ![MK4s build image 5](/assets/img/mk4s_build_5.jpg)
 ![MK4s build image 6](/assets/img/mk4s_build_6.jpg)
 
-Of course to finish off the build I enjoyed a Czech style Pilsner for a Czech Printer. Overall I would say it was a very pleasant experince. Prusa gives you ample extra parts and labels the bags when they do so. The hardest part was making sure I was confident in how I was tightening all of the components. Other than that it was an absolute joy the directions were very easy to follow. The build took me around two weeks working in the evenings for about an hour/two hours.
+Of course to finish off the build I enjoyed a Czech style Pilsner for a Czech printer. Overall I would say it was a very pleasant experince. Prusa gives you ample extra parts and labels the bags when they do so. The hardest part was making sure I was confident in how I was tightening all of the components. Other than that it was an absolute joy. The directions Prusa gives were very easy to follow. The build took me around two weeks working in the evenings for about an hour/two hours.
 
-There will certainly be some 3d printed projects on the way here are a few ideas that are floating around:
+There will certainly be some 3d printed projects on the way. here are a few ideas that are floating around:
 - A monitor stand
 - Indoor plant support 
 - Enclosure for the printer
