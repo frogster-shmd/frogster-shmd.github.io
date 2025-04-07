@@ -8,7 +8,7 @@ permalink: /about/
 
 Thank you for visiting my page. I'm Foster. I currently reside in the Bay Area, and work at a water utility district as an Instrumentation and Controls Engineer Intern.
 
-The title of this site "Digtal Craftsmen" was spurred from my interest in craftspeople. What draws me to crafts-people is their ability to create something that can be all at once be functional, practicial, and embodied with the character of the creator. I also envision their path to mastery being gained by time and effort less than an innate abilty to create what ever it is they make.
+The title of this site "Digtal Craftsmen" was spurred from my interest in craftspeople. What draws me to craftspeople is their ability to create something that can be all at once be functional, practicial, and embodied with the character of the creator. I also envision their path to mastery being gained by time and effort less than an innate abilty to create what ever it is they make.
 
 You will also notice that the plural form ("craftsmen") is used. I did this becasue I believe that you learn craft from others, and there have been many people along my path that continue to influence the craftmans I want to become in the digital landscape.
 
