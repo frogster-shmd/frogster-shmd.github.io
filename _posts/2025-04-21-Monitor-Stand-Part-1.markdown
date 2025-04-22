@@ -57,7 +57,7 @@ The combination of both Python and the 3D paradigm sent me in a much different d
 
 #### Test 2 Seven Hexagons
 **Firstly**\
-A huge thank you goes to this resource right [here](https://www.redblobgames.com/grids/hexagons). This is practically a bible for working with hexagons. It was particularlly helpful for me in calculating the distance between hexagons.
+A huge thank you goes to this resource right [here](https://www.redblobgames.com/grids/hexagons). This is practically a bible for working with hexagons. It was particularly helpful for me in calculating the distance between hexagons.
 
 For this test I wanted to use Python in some way when creating the part and I wanted multiple hexagons to be in a pattern on a square.
 
