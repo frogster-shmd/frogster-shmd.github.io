@@ -83,7 +83,7 @@ So I decided to just halve the thickness in my script, and then mirror the part 
 For this print I ran out of my sample fillament that I was given so I had to switch in the middle of the print and then subsequently ran out of that fillament as well, but it gave me the idea that the mirroring and the sizing was getting closer to what it is that I wanted.
 
 #### Test 3 Patterning Hexagons
-Up until this point I had been using my own calculated origins for the 7 hexagons based on the `distance` variable that I specified, but that wasn't going to cut it. I know I needed a more dynamic script to get the shape that I wanted.
+Up until this point I had been using my own calculated origins for the 7 hexagons based on the `distance` variable that I specified, but that wasn't going to cut it. I knew I needed a more dynamic script to get the shape that I wanted.
 
 **Plan**
 1. I needed to know the shape that I wanted to fill with this pattern, and knowning the part was going to be relativley simple I used a FreeCAD bounding box.
