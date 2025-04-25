@@ -105,4 +105,4 @@ I need to decide if I want to keep going down this Python scripting route, or if
 
 I am also unsure if I will have a singular plank of wood or multiple. Also I am unsure how I want the wood to slide in. I am thinking that I want it to be tight when I slide the 3D printed sides onto the wood almost like an interference fit, but I am not sure how capable the printer is at creating this.
 
-I am also sure that there is plenty of refactoring that I could do on my scripts. They are currently in a state that works, but working well and working are completley different state.
+I am also sure that there is plenty of refactoring that I could do on my scripts. They are currently in a state that works, but working well and working are completley different states.
